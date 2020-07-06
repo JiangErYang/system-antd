@@ -2,7 +2,7 @@
   "name": "system-antd3.0",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://fwtcumt.github.io/system-antd3.0",
+  "homepage": "https://github.com/JiangErYang/system-antd",
   "dependencies": {
     "@antv/g2plot": "^0.11.27",
     "antd": "^3.26.6",
