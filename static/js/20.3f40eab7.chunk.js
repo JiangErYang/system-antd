@@ -1,0 +1,2 @@
+(this["webpackJsonpsystem-antd"]=this["webpackJsonpsystem-antd"]||[]).push([[20],{181:function(t,e,s){"use strict";s.r(e);var n=s(0),a=s.n(n);s(653);e.default=function(t){return a.a.createElement("div",{className:"page-test"},"test")}},653:function(t,e,s){}}]);
+//# sourceMappingURL=20.3f40eab7.chunk.js.map
